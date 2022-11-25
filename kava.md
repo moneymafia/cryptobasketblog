@@ -9,6 +9,8 @@ category: 'defi'
 
 ![Error](cdn://hello.jpg)
 
+
+
 ## Introduction
 Kava is a lightning-fast Layer-1 blockchain featuring a developer-optimized co-chain architecture that combines the two most used permissionless ecosystems - Ethereum and Cosmos - into a single, scalable, network. The Kava Network’s Co-Chains combine the flexibility and speed of Ethereum smart contract development with the interoperability of the Cosmos SDK in a single network, all powered by the ultra-fast Tendermint consensus engine.
 
@@ -19,8 +21,6 @@ Kava is a lightning-fast Layer-1 blockchain featuring a developer-optimized co-c
 
 
 ![rye-jessen-P2kiT2JrWf4-unsplash](https://user-images.githubusercontent.com/8281782/203901352-22f86654-7dfd-47a0-ba10-77fa56f9b8bd.jpg)
-
-
 
 ## Links
 
