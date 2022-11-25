@@ -18,6 +18,10 @@ Kava is a lightning-fast Layer-1 blockchain featuring a developer-optimized co-c
 3. Deploy Solidity smart contracts that interoperate seamlessly with Cosmos SDK protocols in the same network, connecting your project to every major asset and millions of users.
 
 
+![rye-jessen-P2kiT2JrWf4-unsplash](https://user-images.githubusercontent.com/8281782/203901352-22f86654-7dfd-47a0-ba10-77fa56f9b8bd.jpg)
+
+
+
 ## Links
 
 [WEBISTE](https://www.kava.io/)
