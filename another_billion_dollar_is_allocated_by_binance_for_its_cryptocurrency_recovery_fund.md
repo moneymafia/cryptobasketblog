@@ -1,7 +1,7 @@
 ---
 title: 'Another $1 Billion is Allocated By Binance For Its Cryptocurrency Recovery Fund'
 description: 'The industry recovery fund at the cryptocurrency exchange Binance now has a total of over $2 billion after Binance added another $1 billion to it'
-date: '2020-11-26'
+date: '2022-11-26'
 image: 'https://user-images.githubusercontent.com/96611589/204082551-ada2817e-72f2-41d6-b68b-2b610bc71657.jpg'
 
 category: 'binance'
