@@ -1,8 +1,8 @@
 ---
-title: 'As a result of the digital culture shift, the tattoo industry is expanding into the NFT space.'
+title: 'As a result of the digital culture shift the tattoo industry is expanding into the NFT space.'
 description: 'NFT could be a viable option for increasing the monetization and exposure of a tattoo artist work.'
 date: '2022-11-04'
-image:'https://user-images.githubusercontent.com/119027252/204088606-5205723a-e73d-4ff2-addb-88687380de61.png'
+image: 'https://user-images.githubusercontent.com/119027252/204088606-5205723a-e73d-4ff2-addb-88687380de61.png'
 
 category: 'privacy'
 ---
