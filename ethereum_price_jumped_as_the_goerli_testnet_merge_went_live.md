@@ -2,7 +2,7 @@
 title: 'Ethereum price jumped as the Goerli Testnet Merge went live.'
 description: 'Goerli, the network's third and final testnet, is now in the closing stages of preparation for the much-anticipated Merge event.'
 date: '2020-08-11'
-image: ![eth bull](https://user-images.githubusercontent.com/119027252/204076164-20fc7f6b-7df1-4912-9aee-b2f21238a3ac.png)
+image: https://user-images.githubusercontent.com/119027252/204076164-20fc7f6b-7df1-4912-9aee-b2f21238a3ac.png
 category: 'privacy'
 ---
 
