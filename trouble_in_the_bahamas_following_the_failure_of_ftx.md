@@ -5,6 +5,7 @@ date: '2022-11-26'
 image: https://user-images.githubusercontent.com/119027252/204081872-65a9ce75-8a82-45fa-968f-920cf8b510c0.png
 category: 'privacy'
 ---
+
 Following the downfall of crypto exchange FTX, which was situated on the island of Bahamas, Bahamians are said to be still attempting to make sense of things while remaining positive about the future.
 
 According to the Wall Street Journal, the implosion of FTX has shook the island republic, which has encouraged bitcoin entrepreneurs to feel at home with its "copacetic regulatory touch.

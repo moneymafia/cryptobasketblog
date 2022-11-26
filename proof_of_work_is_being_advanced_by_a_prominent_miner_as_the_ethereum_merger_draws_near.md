@@ -2,7 +2,7 @@
 title: 'Proof of work is being advanced by a prominent miner as the Ethereum merger draws near.'
 description: 'As Ethereum moves closer to proof-of-stake consensus, the community is concerned about the possibility of a miner-led fork splitting the network.'
 date: '2020-08-08'
-image: https://user-images.githubusercontent.com/119027252/204032617-277569d6-1f35-4772-aae9-83a858cfd188.png
+image: 'https://user-images.githubusercontent.com/119027252/204032617-277569d6-1f35-4772-aae9-83a858cfd188.png'
 category: 'privacy'
 ---
 
