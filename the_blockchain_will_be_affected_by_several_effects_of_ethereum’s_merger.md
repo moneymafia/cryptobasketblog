@@ -2,7 +2,7 @@
 title: 'The Blockchain Will Be Affected by Several Effects of Ethereum’s Merger'
 description: 'According to the bank, as token issuance declines and the burn mechanism is kept in place, Ethereum will probably experience deflation.'
 date: '2020-08-09'
-image: ![Eth pos](https://user-images.githubusercontent.com/119027252/204042828-6ae6131c-2ead-478f-a674-8c6fc539085b.png)
+image: https://user-images.githubusercontent.com/119027252/204042828-6ae6131c-2ead-478f-a674-8c6fc539085b.png
 category: 'privacy'
 ---
 The Ethereum blockchain’s planned Merge, an upgrade that changes it from a proof-of-work (PoW) system to a more environmentally friendly proof-of-stake (PoS) mechanism, will have a number of consequences. These include lower energy intensity, the transition into a deflationary asset and a “potential road map to a more scalable future through sharding,” the bank said (Citigroup).
