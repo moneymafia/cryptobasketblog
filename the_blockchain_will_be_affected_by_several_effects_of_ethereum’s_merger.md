@@ -1,7 +1,7 @@
 ---
 title: 'The Blockchain Will Be Affected by Several Effects of Ethereum’s Merger'
 description: 'According to the bank, as token issuance declines and the burn mechanism is kept in place, Ethereum will probably experience deflation.'
-date: '2020-08-09'
+date: '2022-08-09'
 image: 'https://user-images.githubusercontent.com/119027252/204042828-6ae6131c-2ead-478f-a674-8c6fc539085b.png'
 category: 'privacy'
 ---
