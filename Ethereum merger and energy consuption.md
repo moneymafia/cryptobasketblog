@@ -9,7 +9,7 @@ category: 'crypto'
 Ethereum's long-awaited merger, which was completed successfully overnight, was intended to substantially reduce the blockchain network's overall energy consumption—and it appears to have done just that. According to an initial analysis released this morning, Ethereum's energy requirements and carbon footprint have both decreased even more than expected.
 
 
-The analysis, commissioned by Ethereum-centric software business ConsenSys from the [Crypto Carbon Ratings Institute (CCRI)](https://carbon-ratings.com/), states that Ethereum currently uses 99.99% less energy than before the merger. It also implies that the blockchain's carbon footprint has decreased by more than **99.99%*.
+The analysis, commissioned by Ethereum-centric software business ConsenSys from the [Crypto Carbon Ratings Institute (CCRI)](https://carbon-ratings.com/), states that Ethereum currently uses 99.99% less energy than before the merger. It also implies that the blockchain's carbon footprint has decreased by more than **99.99%**.
 
 
 ![eth energy](https://user-images.githubusercontent.com/119027252/204239264-1d0ec426-5c4f-48e0-8529-cb72d56f6dbb.png)
