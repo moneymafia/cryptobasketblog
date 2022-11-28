@@ -8,9 +8,11 @@ category: 'crypto'
 
 A report claims that the BNB Chain weakness, which let hackers to steal $590 million from the network, was the greatest breach in October. The BNB Chain was quickly halted as the news surfaced, preventing the hacker from moving the majority of assets off-chain, therefore the attacker only made escape with about $100 million.
 
+
 Nearly $2.98 billion in bitcoin losses have been caused by DeFi attacks this year, nearly twice as much as the $1.55 billion in losses in 2021.
 
 ![hacker](https://user-images.githubusercontent.com/96611589/204090980-00c092e8-db3a-4fe5-bf5b-865000d3f5b5.jpg)
+
 
 A hacker established a sizable stake in MNGO-PERP and counter-traded themselves in the MNGO protocol breach, another DeFi attack that garnered media attention. All of the protocol's liquidity, or about $100 million worth of assets, was drained by the offender.
 
