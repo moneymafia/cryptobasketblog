@@ -16,4 +16,6 @@ Bitfront, a U.S. crypto exchange backed by Japanese social networking giant Line
 "Despite our efforts, we have realized that we must close BITFRONT in order to continue building the LINE blockchain environment and LINK token economy" said the company. Bitfront stated that the action has nothing to do with current difficulties involving certain cryptocurrency exchanges that have been accused of "misconduct."
 
 
+![bitfi](https://user-images.githubusercontent.com/96611589/204525023-19d79e8e-8ce5-47a0-9e13-407e5075aa3f.png)
+
 Bitfront ceased operations in South Korea in 2021 because to regulatory issues.
