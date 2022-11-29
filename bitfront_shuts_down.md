@@ -1,5 +1,5 @@
 ---
-title: 'Bitfront, a cryptocurrency exchange, has ceased operations'
+title: 'Bitfront, a cryptocurrency exchange has ceased operations'
 description: 'Japanese social media giant LINE will close Bitfront, a cryptocurrency exchange that was created in 2020'
 date: '2022-11-29'
 image: 'https://user-images.githubusercontent.com/96611589/204522867-82319ef7-0c0c-44c4-8df6-6579bdf47d42.jpg'
