@@ -18,5 +18,7 @@ category: 'crypto'
 
 - In September 2021, FTX US, a subsidiary of FTX, purchased LedgerX and changed its name to [FTX US Derivatives](https://twitter.com/zachdex/status/1452645306559090692), a platform for trading cryptocurrency derivatives.
 
+![ledger x](https://user-images.githubusercontent.com/119027252/204738844-0ec16e2a-d786-4371-b76d-3e108a06e280.jpg)
+
 - One of the few FTX-related assets that is solvent and not owned by the [debtors](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MTM1MjU4MQ==&id2=-1) is FTX US Derivatives, also known as LedgerX.
 
