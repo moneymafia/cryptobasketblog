@@ -2,7 +2,7 @@
 title: 'Binance buys SEBC a legal cryptocurrency exchange based in Japan'
 description: 'By acquiring the regionally authorised exchange Sakura Exchange BitCoin, cryptocurrency exchange operator Binance has entered Japan (SEBC).'
 date: '2022-11-30'
-image: ![binance](https://user-images.githubusercontent.com/119027252/204774220-cc3c52a2-3dae-4ab5-aade-7a4f1ece9b33.png)
+image: 'https://user-images.githubusercontent.com/119027252/204774220-cc3c52a2-3dae-4ab5-aade-7a4f1ece9b33.png'
 category: 'crypto'
 ---
 
