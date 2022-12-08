@@ -2,7 +2,7 @@
 title: 'Telegram will enable no-sim accounts with anon-blockchain-numbers'
 description: Telegram's security features have been enhanced by adding support from anonymous blockchain-based numbers that cost roughly $16.'
 date: '2022-12-08'
-image: '(https://user-images.githubusercontent.com/119027252/206397013-6f383b32-70fa-49c4-8c9c-ebec5733b295.jpg)'
+image: 'https://user-images.githubusercontent.com/119027252/206397013-6f383b32-70fa-49c4-8c9c-ebec5733b295.jpg'
 category: 'blockchain'
 ---
 
