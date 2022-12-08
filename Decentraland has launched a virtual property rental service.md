@@ -1,5 +1,5 @@
 ---
-title: 'Decentraland has launched a virtual property rental service forland owners'
+title: 'Decentraland has launched a virtual property rental service for land owners'
 description: 'Users who own LAND within Decentraland can now officially rent out the rights to the space through the digital marketplace according to the metaverse platform.'
 date: '2022-12-07'
 image: 'https://user-images.githubusercontent.com/119027252/206420141-e84c001f-19bb-4847-992c-46e7a2dd21d1.png'
