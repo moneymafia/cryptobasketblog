@@ -10,7 +10,7 @@ category: 'news'
 According to Bloomberg, the __cryptocurrency exchange FTX which is now bankrupted__ used its own token called __FTT__, to pay the $84 million purchase of a controlling interest in trading platform Blockfolio in 2020.
 
 
-![FTX](https://user-images.githubusercontent.com/96611589/209126296-6cf1e973-b2ac-474b-9a97-dd64bb7e6c1e.png)
+![FTX](https://user-images.githubusercontent.com/96611589/209126566-849a7a85-0036-4407-9173-fc295ae6a686.png)
 
 
 According to the report, which referenced bank papers says around 94% of the value was in the FTX token. The transaction granted FTX a 52% ownership position in the trading platform.
